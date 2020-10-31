@@ -1,0 +1,12 @@
+{
+  "name": "Zomatoclone",
+  "displayName": "Zomatoclone",
+  "expo": {
+    "name": "Zomatoclone",
+    "slug": "Zomatoclone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
